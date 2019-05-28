@@ -1,0 +1,256 @@
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/AddRawMaterialScreen.dll.config
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/AddRawMaterialScreen.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/AddRawMaterialScreen.pdb
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.exe
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.exe.config
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.rsp
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.exe
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.exe.config
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.rsp
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.AppContext.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Console.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Compression.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Claims.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.ValueTuple.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.exe
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.exe.config
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.rsp
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Antlr3.Runtime.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Newtonsoft.Json.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Helpers.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Mvc.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Optimization.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Razor.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/WebGrease.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Newtonsoft.Json.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Helpers.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Mvc.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Optimization.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Razor.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Antlr3.Runtime.pdb
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csprojAssemblyReference.cache
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CoreCompileInputs.cache
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CopyComplete
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.dll
+C:/Users/movarind/source/repos/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.pdb
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/AddRawMaterialScreen.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/AddRawMaterialScreen.pdb
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.exe
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.exe.config
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csc.rsp
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.exe
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.exe.config
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/csi.rsp
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.AppContext.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Collections.Immutable.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Console.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Compression.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Reflection.Metadata.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.AccessControl.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Claims.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.ValueTuple.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.exe
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.exe.config
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/vbc.rsp
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe.config
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Antlr3.Runtime.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.Web.Infrastructure.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Newtonsoft.Json.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Helpers.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Mvc.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Optimization.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Razor.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/WebGrease.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Newtonsoft.Json.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Helpers.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Mvc.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Optimization.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.Razor.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Antlr3.Runtime.pdb
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csprojAssemblyReference.cache
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CoreCompileInputs.cache
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CopyComplete
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.dll
+/Users/Reshaad/Desktop/AddRawMaterialScreen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.pdb
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/AddRawMaterialScreen.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/AddRawMaterialScreen.pdb
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csc.exe
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csc.exe.config
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csc.rsp
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csi.exe
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csi.exe.config
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/csi.rsp
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.AppContext.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Collections.Immutable.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Console.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.IO.Compression.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.IO.Pipes.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Reflection.Metadata.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.AccessControl.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Claims.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.ValueTuple.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/vbc.exe
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/vbc.exe.config
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/vbc.rsp
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/roslyn/VBCSCompiler.exe.config
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Antlr3.Runtime.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Microsoft.Web.Infrastructure.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Newtonsoft.Json.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Helpers.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Http.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Mvc.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Optimization.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Razor.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/WebGrease.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Newtonsoft.Json.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Net.Http.Formatting.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Helpers.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Http.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Http.WebHost.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Mvc.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Optimization.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.Razor.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.Deployment.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Web.WebPages.Razor.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Antlr3.Runtime.pdb
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csprojAssemblyReference.cache
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CoreCompileInputs.cache
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.csproj.CopyComplete
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.dll
+/Users/Reshaad/Desktop/Updated Screen/AddRawMaterialScreen/obj/Debug/AddRawMaterialScreen.pdb
